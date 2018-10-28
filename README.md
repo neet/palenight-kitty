@@ -7,10 +7,10 @@ Port of [Material Palenight](https://github.com/equinusocio/vsc-material-theme) 
 
 Download the theme via with following command:
 ```
-curl -gL -o ~/.config/kitty/palenight.conf https://git.io/fxH7Q 
+curl -gLo ~/.config/kitty/palenight.conf https://git.io/fxH7Q 
 ```
 
-Then add following line to final line of your kitty configuration
+Then add the following setting to the final line of your Kitty's configuration.
 ```diff
 + include palenight.conf
 ```
