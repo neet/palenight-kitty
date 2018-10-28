@@ -1,6 +1,8 @@
 # palenight-kitty
 Port of [Material Palenight](https://github.com/equinusocio/vsc-material-theme) theme for [Kitty](https://sw.kovidgoyal.net/kitty/index.html)
 
+![Screenshot](https://i.imgur.com/GrfS92C.png)
+
 ## Installation
 
 Download the theme via with following command:
