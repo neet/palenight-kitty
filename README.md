@@ -5,7 +5,7 @@ Port of [Material Palenight](https://github.com/equinusocio/vsc-material-theme) 
 
 ## Installation
 
-Download the theme via with following command:
+First, download the theme with the following command:
 ```
 curl -gLo ~/.config/kitty/palenight.conf https://git.io/fxH7Q 
 ```
