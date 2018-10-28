@@ -10,7 +10,7 @@ Download the theme via with following command:
 curl -gLo ~/.config/kitty/palenight.conf https://git.io/fxH7Q 
 ```
 
-Then add the following setting to the final line of your Kitty's configuration.
+Then add the following setting to the final line of your Kitty's configuration file (e.g. `~/.config/kitty/kitty.conf`)
 ```diff
 + include palenight.conf
 ```
